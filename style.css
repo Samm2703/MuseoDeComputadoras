@@ -77,6 +77,15 @@ li:hover span {
 
 
 body {
+       margin: 0px;
+    padding: 0px;
+    background: url(bloque.jpg) ;
+    
+    background-position: center;
+    align-items: center;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;  
     min-height:100vh;
     background:url('fotito.jpg') no repeat;
     background-size: cover;
@@ -99,7 +108,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 20px 100px;
-    background-color: #00000000;
+    background-color: rgb(19, 19, 126);
 }
 
 .logo{
