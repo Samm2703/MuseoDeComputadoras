@@ -1,4 +1,17 @@
 
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background: url(bloque.jpg) ;
+    
+    background-position: center;
+    align-items: center;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;  
+   
+}
 html{
     scroll-behavior: smooth;
   }
